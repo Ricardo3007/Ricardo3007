@@ -5,6 +5,7 @@ Soy un desarrollador apasionado con experiencia en **Java Spring Boot**, **.NET*
 ## Habilidades Técnicas
 
 - **Lenguajes de Programación:**
+  - PHP
   - C#
   - Java
   - JavaScript
