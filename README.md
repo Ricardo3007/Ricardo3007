@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! Soy Ricardo 👋
 
-<!--
-**Ricardo3007/Ricardo3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado con experiencia en **Java Spring Boot**, **.NET**, y **Angular**. Actualmente, estoy buscando nuevas oportunidades para aplicar mis habilidades y seguir creciendo en el campo del desarrollo de software.
 
-Here are some ideas to get you started:
+## Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de Programación:**
+  - C#
+  - Java
+  - JavaScript
+  - TypeScript
+
+- **Frameworks y Tecnologías:**
+  - .NET Core
+  - Spring Boot
+  - Angular
+  - NG-ZORRO
+  - Tailwind CSS
+
+- **Bases de Datos:**
+  - SQL Server
+  - MySQL
+
+- **Herramientas de Desarrollo:**
+  - IntelliJ IDEA
+  - Visual Studio
+  - Git
+
+
+## Contacto
+
+- **LinkedIn:** https://www.linkedin.com/in/ricardo-ferrer-3b9443192/
+
+¡Gracias por visitar mi perfil! Estoy emocionado por conectar y colaborar en proyectos interesantes.
