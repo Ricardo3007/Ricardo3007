@@ -23,13 +23,11 @@ Soy un desarrollador apasionado con experiencia en **.NET**, **Java Spring Boot*
   - MySQL
 
 - **Herramientas de Desarrollo:**
-  - IntelliJ IDEA
   - Visual Studio
+  - Visual Studio Code
+  - IntelliJ IDEA
   - Git
 
 
-## Contacto
-
-- **LinkedIn:** https://www.linkedin.com/in/ricardo-ferrer-3b9443192/
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por conectar y colaborar en proyectos interesantes.
